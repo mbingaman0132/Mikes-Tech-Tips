@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mike's Tech Tips</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <img src="images/logo.png" alt="Mike's Tech Tips Logo" class="logo">
+        <h1>Welcome to Mike's Tech Tips</h1>
+        <nav>
+            <ul>
+                <li><a href="#tips">Tech Tips</a></li>
+                <li><a href="#about">About Mike</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="tips">
+            <h2>Latest Tech Tips</h2>
+            <ul>
+                <li>Tip 1: Keep your software updated.</li>
+                <li>Tip 2: Use strong passwords and a password manager.</li>
+                <li>Tip 3: Backup your data regularly.</li>
+                <li>Tip 4: Use two-factor authentication.</li>
+            </ul>
+        </section>
+
+        <section id="about">
+            <h2>About Mike</h2>
+            <p>Mike is a tech enthusiast sharing his knowledge to help you stay safe and savvy in the digital world.</p>
+        </section>
+
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>Have questions or tips to share? Reach out at <a href="mailto:contact@mikestechtips.com">contact@mikestechtips.com</a>.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Mike's Tech Tips</p>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
